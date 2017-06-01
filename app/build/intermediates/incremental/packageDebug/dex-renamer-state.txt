@@ -1,0 +1,7 @@
+#Thu Jun 01 11:40:04 CST 2017
+base.0=/Users/zhangyong/Documents/Demo/FileProviderDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f9f6f01b946596c3e37f24071f346bf4ba73116c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/zhangyong/Documents/Demo/FileProviderDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3a933951aed46317c445c16e79c65ece7424681d/classes.dex
+base.1=/Users/zhangyong/Documents/Demo/FileProviderDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3a933951aed46317c445c16e79c65ece7424681d
+file.0=/Users/zhangyong/Documents/Demo/FileProviderDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f9f6f01b946596c3e37f24071f346bf4ba73116c/classes.dex

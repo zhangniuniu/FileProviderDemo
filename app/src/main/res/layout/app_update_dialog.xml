@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" 
+    android:orientation="vertical">
+    <ProgressBar 
+	    android:id="@+id/progressbar"
+	    style="?android:attr/progressBarStyleHorizontal"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp"
+		android:layout_marginTop="40dp"
+		android:minHeight="3dp"
+        android:maxHeight="3dp"
+        android:progressDrawable="@drawable/progress_horizontal"/>
+    
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="40dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textColor="#767676"
+	        android:textSize="18sp"
+	        android:text="更新"/>
+        
+	    <TextView android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/updateProgress"
+	        android:textColor="#ff0000"
+	        android:textSize="18sp"
+	        android:textStyle="bold"
+	        android:layout_alignParentRight="true"
+	        android:text="0%"/>
+    </RelativeLayout>
+</LinearLayout>
