@@ -17,7 +17,6 @@ import java.net.URL;
 
 /**
  * 文件下载
- * @author zhangyong
  *
  */
 public class DownloadTask extends AsyncTask<String, Integer, String> {
